@@ -13,8 +13,7 @@
 
 <h3>Programming Logic Fundamentals</h3>
 
-<p>VisuAlg. Algorithms. Logical and Relational Operators. Control Flow. Loops. Procedures. Validation.
- Arrays. Functions. Matrices.</p>
+<p>VisuAlg. Algorithms. Logical and Relational Operators. Control Flow. Loops. Procedures. Validation. Arrays. Functions. Matrices.</p>
 
 <p>VisuAlg. Algoritmos. Operadores Lógicos e Relacionais. Estruturas de Decisão. Estruturas de Repetição. Procedimentos. Validações. Vetores. Funções. Matrizes.</p>
 

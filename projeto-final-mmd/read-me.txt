@@ -1,0 +1,8 @@
+// Há 05 opções de escolha no menu principal: lanches, acompanhamentos, bebidas, total a pagar e para sair do sistema.
+// Os menus lanches, acompanhamentos e bebidas possuem 07 subopções de escolha.
+// No menu principal, o usuário poderá escolher uma opção e ir para a tela da mesma. Se for digitado 0 (zero) o programa será finalizado.
+// Dentro da opção escolhida (lanches, acompanhamentos ou bebidas)o usuário seleciona a subopção e a quantidade.
+// É mostrado a quantidade e o valor subtotal e total da subopção.
+// O sistema permite escolher outra opção dentro do menu que o usuário estiver (lanches, acompanhamentos ou bebidas).
+// Há uma opção para retornar ao menu anterior - 0 (zero).
+// No menu "TOTAL A PAGAR" é mostrado o subtotal das 03 opções (lanches, acompanhamentos e bebidas) e o valor total do pedido.

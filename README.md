@@ -22,7 +22,7 @@
 
 <h2>Projects (Projetos)</h2>
 
-Elaborar um algoritmo no aplicativo VisuAalg para o controle de pedidos em uma cafeteria.
+Elaborar um algoritmo no aplicativo VisuAlg para o controle de pedidos em uma cafeteria.
 
 <ul>
 <li>Há 05 opções de escolha no menu principal: lanches, acompanhamentos, bebidas, total a pagar e para sair do sistema.</li>

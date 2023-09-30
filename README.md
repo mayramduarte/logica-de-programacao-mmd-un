@@ -5,10 +5,10 @@
 
 <h2>Topics (Conteúdo)</h2>
 
-<p>Required Course - Programming Logic Fundamentals - Technologist Systems Analysis and Development - Uniube.</p>
+<p>Required Course - Programming Logic Fundamentals - Technology in Systems Analysis and Development - Uniube.</p>
 <p>Exercises practiced during the course and final evaluated project for approval in the discipline.</p>
 
-<p>(Disciplina Obrigatória - Fundamentos de Lógica de Programação - Tecnólogo Análise e Desenvolvimento de  Sistemas - Uniube.</p>
+<p>(Disciplina Obrigatória - Fundamentos de Lógica de Programação - Tecnólogo em Análise e Desenvolvimento de  Sistemas - Uniube.</p>
 <p>Exercícios praticados durante o curso e projeto final avaliativo para aprovação na disciplina.)</p>
 
 <h3>Programming Logic Fundamentals</h3>
@@ -21,7 +21,7 @@
 
 <h2>Projects (Projetos)</h2>
 
-Elaborar um algoritmo no aplicativo VisuAlg para o controle de pedidos em uma cafeteria.
+Elaborar um algoritmo no aplicativo VisuAlg para o controle de pedidos de uma cafeteria.
 
 <ul>
 <li>Há 05 opções de escolha no menu principal: lanches, acompanhamentos, bebidas, total a pagar e para sair do sistema.</li>

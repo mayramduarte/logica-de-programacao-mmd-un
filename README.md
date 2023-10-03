@@ -18,8 +18,8 @@
 <p>VisuAlg. Algoritmos. Operadores Lógicos e Relacionais. Estruturas de Decisão. Estruturas de Repetição. Procedimentos. Validações. Vetores. Funções. Matrizes.</p>
 
 <p>Software: VisuAlg.</p>
-<p>Programming language: pseudocode Portugol</p>
-<p>Linguagem de programação: pseudolinguagem Portugol.</>
+<p>Programming Language: pseudocode Portugol.</p>
+<p>Linguagem de Programação: pseudolinguagem Portugol.</>
 
 <h2>Projects (Projetos)</h2>
 

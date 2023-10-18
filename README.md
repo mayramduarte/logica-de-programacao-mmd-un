@@ -1,17 +1,16 @@
 # logica-de-programacao-mmd-un
 
-<h1>Required Course - Fundamentos de Lógica de Programação - Tecnólogo Análise e Desenvolvimento de Sistemas - Uniube
-</h1>
+<h1>Required Course - Programming Logic Fundamentals - Technology in Systems Analysis and Development - Uniube</h1>
 
 <h2>Topics (Conteúdo)</h2>
 
 <p>Required Course - Programming Logic Fundamentals - Technology in Systems Analysis and Development - Uniube.</p>
-<p>Exercises practiced during the course and final evaluated project for approval in the discipline.</p>
+<p>Exercises practiced during the course and final evaluated project for parcial approval in the discipline.</p>
 
-<p>(Disciplina Obrigatória - Fundamentos de Lógica de Programação - Tecnólogo em Análise e Desenvolvimento de  Sistemas - Uniube.</p>
-<p>Exercícios praticados durante o curso e projeto final avaliativo para aprovação na disciplina.)</p>
+<p>Disciplina Obrigatória - Fundamentos de Lógica de Programação - Tecnólogo em Análise e Desenvolvimento de  Sistemas - Uniube.</p>
+<p>Exercícios praticados durante o curso e projeto final avaliativo para aprovação parcial na disciplina.</p>
 
-<h3>Programming Logic Fundamentals</h3>
+<h3>Programming Logic Fundamentals (Fundamentos de Lógica de Programação)</h3>
 
 <p>VisuAlg. Algorithms. Logical and Relational Operators. Control Flow. Loops. Procedures. Validation. Arrays. Functions. Matrices.</p>
 
